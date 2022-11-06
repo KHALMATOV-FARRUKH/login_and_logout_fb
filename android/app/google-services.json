@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538306561815",
+    "project_id": "login-and-logout-429ae",
+    "storage_bucket": "login-and-logout-429ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538306561815:android:483bf0afc6bb491434d952",
+        "android_client_info": {
+          "package_name": "com.example.login_and_logout_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538306561815-le6lgkekklvauun3o9ainim46ffdbj68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxvpbDCmmZ_c4Af7ME-R6Y_fD6qDCSNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538306561815-le6lgkekklvauun3o9ainim46ffdbj68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
